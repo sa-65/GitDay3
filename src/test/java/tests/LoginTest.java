@@ -73,6 +73,19 @@ public class LoginTest {
 
 
 
+    @Test
+    public void mytest(){
+        driver=new ChromeDriver();
+
+        driver.get("https://google.com");
+
+    }
+
+
+    //Solve this conflict later
+
+
+
 
 
 }
